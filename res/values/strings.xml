@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sakura House</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Sakura House</string>
+    <string name="call">Call 022820303</string>
+    <string name="sakurahouse">Sakura House</string>
+    <string name="call2">โทร 022820303</string>
+    <string name="Fb">Facebook/sakurahouse</string>
+    <string name="redcommen">อาหารแนะนำ</string>
+    <string name="contace">ติดต่อเรา</string>
+    <string name="sakurahous">SAKURA HOUSE</string>
+    <string name="Food">รายการอาหาร</string>
+    
+</resources>
